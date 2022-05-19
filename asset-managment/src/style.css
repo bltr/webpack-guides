@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url("Rainbow in June.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    height: 128px;
+    background: url("icon.png");
+    font-family: 'MyFont';
+}
