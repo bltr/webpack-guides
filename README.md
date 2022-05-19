@@ -15,7 +15,7 @@
 3.  [#] [Output Management](https://webpack.js.org/guides/output-management/) 
 4.  [#] [Development](https://webpack.js.org/guides/development/) 
 5.  [#] [Code Splitting](https://webpack.js.org/guides/code-splitting)
-6.  [3] Caching (после Code Splitting)
+6.  [#] [Caching](https://webpack.js.org/guides/caching/)
 7.  [-] Authoring Libraries
 8.  [#] [Environment Variables](https://webpack.js.org/guides/environment-variables/) 
 9.  [.] Build Performance 
@@ -24,9 +24,9 @@
 12. [?] Dependency Management
 13. [-] Installation
 14. [#] [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement) 
-15. [4] Tree Shaking 
-16. [5] Production (после Tree Shaking)
-17. [>] Lazy Loading (после Code Splitting)
+15. [#] Tree Shaking 
+16. [#] Production (после Tree Shaking)
+17. [#] [Lazy Loading](https://webpack.js.org/guides/lazy-loading/)
 18. [.] ECMAScript Modules 
 19. [.] Shimming 
 20. [.] TypeScript 
